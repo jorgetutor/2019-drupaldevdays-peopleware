@@ -136,3 +136,7 @@ ol li:before {
     counter-increment: item;
     color: #fcb02a;
 }
+
+p.italic {
+  font-style: italic;
+}
