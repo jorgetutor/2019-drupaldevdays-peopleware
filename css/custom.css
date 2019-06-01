@@ -39,6 +39,10 @@
   max-width: 200px;
 }
 
+.reveal section img.margin-none {
+  margin: 0;
+}
+
 .reveal section .small {
   font-size: 0.8em;
 }
