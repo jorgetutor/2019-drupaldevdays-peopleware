@@ -92,6 +92,10 @@ ul.none li {
   text-align: center;
 }
 
+.reveal section table.cols-2 td {
+  width: 50%;
+}
+
 .reveal table th,
 .reveal table td {
     border-bottom: 1px solid #CCC;
