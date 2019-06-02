@@ -88,6 +88,11 @@ ul.none li {
 }
 
 .reveal section .center,
+.reveal section table.center th
+.reveal section table.center td {
+  text-align: center;
+}
+
 .reveal section table td.center {
   text-align: center;
 }
