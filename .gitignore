@@ -3,6 +3,8 @@
 *.iws
 *.eml
 *.directory
+*.png~
+*.jpg~
 out/
 .DS_Store
 .svn
