@@ -95,8 +95,13 @@ ul.none li {
   list-style: none;
 }
 
+.reveal ol.margin-bottom-15 li,
+.reveal ul.margin-bottom-15 li {
+  margin-bottom: 1.5em;
+}
+
 .reveal section .center,
-.reveal section table.center th
+.reveal section table.center th,
 .reveal section table.center td {
   text-align: center;
 }
@@ -201,4 +206,13 @@ td.italic {
 p.strong,
 td.strong {
   font-weight: bold;
+}
+
+.right-70 {
+  float: right;
+  max-width: 70%;
+}
+.right-30 {
+  float: right;
+  max-width: 30%;
 }
