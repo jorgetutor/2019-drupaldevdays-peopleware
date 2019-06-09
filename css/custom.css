@@ -45,11 +45,15 @@
   max-width: 120px;
 }
 .reveal section img.medium {
-  max-width: 200px;
+  max-width: 300px;
 }
 
 .reveal section img.large {
   max-height: 400px;
+}
+
+.reveal section img.small {
+  max-height: 200px;
 }
 
 .reveal section img.margin-none {
@@ -81,6 +85,10 @@
 .reveal table th.right,
 .reveal table td.right {
   text-align: right;
+}
+
+.reveal table th {
+  color: #666;
 }
 
 ul.none li {
@@ -189,4 +197,8 @@ ol li:before {
 p.italic,
 td.italic {
   font-style: italic;
+}
+p.strong,
+td.strong {
+  font-weight: bold;
 }
