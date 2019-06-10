@@ -41,9 +41,22 @@
   border-radius: 50%;
 }
 
+.reveal section img.circle {
+  border-radius: 50%;
+}
+
 .reveal section img.metadrop-logo {
   max-width: 120px;
 }
+
+.reveal section img.xsmall {
+  max-height: 100px;
+}
+
+.reveal section img.small {
+  max-height: 200px;
+}
+
 .reveal section img.medium {
   max-width: 300px;
 }
@@ -52,9 +65,6 @@
   max-height: 400px;
 }
 
-.reveal section img.small {
-  max-height: 200px;
-}
 
 .reveal section img.margin-none {
   margin: 0;
