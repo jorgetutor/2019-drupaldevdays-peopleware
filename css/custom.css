@@ -91,6 +91,10 @@
   color: #666;
 }
 
+.reveal table tr.width-50 td {
+  width: 50%;
+}
+
 ul.none li {
   list-style: none;
 }
