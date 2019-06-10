@@ -203,6 +203,7 @@ p.italic,
 td.italic {
   font-style: italic;
 }
+span.strong,
 p.strong,
 td.strong {
   font-weight: bold;
