@@ -124,6 +124,11 @@ ul.none li {
   list-style: none;
 }
 
+.reveal ol.margin-bottom-5 li,
+.reveal ul.margin-bottom-5 li {
+  margin-bottom: 0.5em;
+}
+
 .reveal ol.margin-bottom-15 li,
 .reveal ul.margin-bottom-15 li {
   margin-bottom: 1.5em;
