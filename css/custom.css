@@ -11,6 +11,10 @@
   font-size: 1.1em;
 }
 
+.reveal h3.text-shadow {
+  text-shadow: 0 0 3px black;
+}
+
 .reveal h4 {
   font-size: 1.0em;
 }
@@ -76,6 +80,9 @@
 
 .reveal section img.margin-none {
   margin: 0;
+}
+.reveal section .xxxbig {
+  font-size: 2em;
 }
 .reveal section .xxbig {
   font-size: 1.6em;
@@ -221,6 +228,8 @@ ol li:before {
     color: #fcb02a;
 }
 
+span.italic,
+strong.italic,
 p.italic,
 td.italic {
   font-style: italic;
@@ -237,5 +246,9 @@ td.strong {
 }
 .right-30 {
   float: right;
+  max-width: 30%;
+}
+.left-30 {
+  float: left;
   max-width: 30%;
 }
