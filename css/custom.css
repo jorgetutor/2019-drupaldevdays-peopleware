@@ -70,7 +70,7 @@
 }
 
 .reveal section img.medium {
-  max-width: 300px;
+  max-height: 300px;
 }
 
 .reveal section img.large {
