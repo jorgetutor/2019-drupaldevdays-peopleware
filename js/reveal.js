@@ -4344,12 +4344,12 @@
 				// l, right
 				case 76: case 39: navigateRight(); break;
 				// k, up
-				case 75: case 38:
+				case 75: case 40:
 					navigatePrev();
 					//navigateUp();
 				 break;
 				// j, down
-				case 74: case 40:
+				case 74: case 38:
 				 //navigateNext();
 				 navigateNext();
 				 break;
