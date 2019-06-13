@@ -123,6 +123,10 @@
   color: #666;
 }
 
+.reveal table.align-middle tr td {
+  vertical-align: middle;
+}
+
 .reveal table tr.width-50 td {
   width: 50%;
 }
@@ -247,6 +251,7 @@ td.italic {
   font-style: italic;
 }
 span.strong,
+li.strong,
 p.strong,
 td.strong {
   font-weight: bold;
